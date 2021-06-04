@@ -9,12 +9,12 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích phong <33',
     btnNo: 'Không, À nha  :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao linh lại yêu phong <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Phong biết mà 🥰. Yêu linh nhiều Lắm luôn😘😘',
     messDesc: 'Tối nay trò chuyện nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/phong.tre.75'
+    messLink: 'https://m.me/phong.tre.1904'
     
 }
